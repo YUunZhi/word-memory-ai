@@ -1,0 +1,5 @@
+# 测试单词数据集
+生词组：apple, banana, schedule, abandon, separate
+半熟词：memory, efficient, strategy, review, reinforce
+熟词：book, student, learn, plan, time
+每日测试时长样本：15/30/45分钟
